@@ -1,4 +1,4 @@
-Dummy package
+My test package
 =============
 
 API
